@@ -1,5 +1,9 @@
 # Pokemon-
 Absolutely! A Pokémon dashboard in Power BI can be a fun and informative way to explore the world of Pokémon. 
+<br>
+<img src="https://github.com/i-am-rohit/Pokemon-/blob/main/podex.png?raw=true" width="1200" height="600">
+<br>
+
 Here are some ideas to get you started:
 
 Data Source:
